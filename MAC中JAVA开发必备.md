@@ -7,7 +7,7 @@ backgroundImage: url('images/hero-background.jpg')
 marp: true
 ---
 
-![bg left:40% 40%](images/logo2.png)
+<img src="images/logo2.png" alt="bg left:40% 40%" style="zoom:25%;" />
 
 # **知识分享**
 
@@ -137,7 +137,7 @@ apt-get 这个是ubuntu
   
    ##### 快速链接到远程电脑(SSH的方式)
 - `色彩搭配`
-   
+  
    ##### 更加强大的色彩搭配
    
 
@@ -156,11 +156,11 @@ apt-get 这个是ubuntu
 ## 9.Navicat
 这个是一款比较强大的数据库管理工具,提供多种数据库的支持,如: mysql,sqlserver,oracle等
 - `本机安装Mysql5.7`
-   
+  
 ###### 建议本机安装一下,这样可以做很多的尝试   
-   
+
 - `用远程搭建好的Mysql`
-   
+  
    ###### 统一管理
 
 ---
@@ -182,7 +182,7 @@ apt-get 这个是ubuntu
 文本编辑器用的还是很广泛的,比如: 写react，vue等应用,当然我主要他来做几件事:1.写PPT，2.美化JSON，3.美化XML，4.看源码等
 
 - `marp`
-   
+  
 ###### 这个就是我写分享ppt的工具,使用markdown的语法在写
 ###### 导出成ppt，pdf
 ---
@@ -191,7 +191,7 @@ apt-get 这个是ubuntu
 
 
 - `前端代码编写`
-   
+  
    ###### react,vue
 
 - `看源码`
@@ -249,7 +249,7 @@ apt-get 这个是ubuntu
 
 - `缓存工具`
    - brew install redis
-    
+   
    
    自己本机测试测试相关代码还是必要的
    ```sh
@@ -272,29 +272,29 @@ apt-get 这个是ubuntu
    ###### 也可以配合lua脚本+redis做请求限制等
 
 - `端口代理`
-   
+  
    ###### 有些强制需要80端口的,但是你的实际应用可能不是,这个时候需要代理一下   
 
 ---
 ### 19.node
 
 - `开发前端必备`
-   
+  
    ##### react,vue等开发必须要的支持
 
 ---
 ### 20.other
 
 - `微软3剑客`
-   
+  
 ###### word,excel,ppt
-   
+
 - `沟通三剑客`
-   
+  
 ###### 邮箱,微信,钉钉
-   
+
 - `各类图表`
-   
+  
    ###### RP图,visio图,甘特图,思维导图等等
 
 ---
@@ -309,13 +309,9 @@ apt-get 这个是ubuntu
 ### 求赞
 
 ##### 感谢观看，转载请注明出处！
-##### ← 打
-##### ← 赏
-##### ← 赞
-##### ← 赞
+##### ← 打← 赏← 赞← 赞
 
-
-![bg left:50% 50%](images/wx-shoukuan.jpg)
+<img src="images/wx-shoukuan.jpg" alt="贡献吗" style="zoom:20%;" />
 
 
 
